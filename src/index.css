@@ -18,9 +18,13 @@ body {
   cursor: pointer;
 }
 
+.status {
+  text-align: center;
+}
+
 .board {
   display: flex;
   flex-wrap: wrap;
+  margin: auto;
   width: 150px;
-  height: 150px;
 }
